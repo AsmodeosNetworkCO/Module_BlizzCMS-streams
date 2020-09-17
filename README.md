@@ -30,11 +30,11 @@ Ahora Linea 21: chat?parent=tudominio.tdl
 - Disfruta tu modulo
 - para visualizarlo ingresa a `http://tudominio.tdl/streams`
 # Capturas de Pantalla
-[![Captura1](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/screenshots/screenshot-1.jpg "Captura1")]
-[![Captura2](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/screenshots/screenshot-2.jpg "Captura2")]
-[![Captura3](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/screenshots/screenshot-3.jpg "Captura3")]
-[![Captura4](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/screenshots/screenshot-4.jpg "Captura4")]
-[![Captura5](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/screenshots/screenshot-5.jpg "Captura5")]
+[![Captura1](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/master/screenshots/screenshot-1.jpg "Captura1")]
+[![Captura2](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/master/screenshots/screenshot-2.jpg "Captura2")]
+[![Captura3](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/master/screenshots/screenshot-3.jpg "Captura3")]
+[![Captura4](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/master/screenshots/screenshot-4.jpg "Captura4")]
+[![Captura5](http://github.com/AsmodeosNetworkCO/Module_BlizzCMS-Streams/master/screenshots/screenshot-5.jpg "Captura5")]
 
 # Agradecimientos
 - [WoW CMS Developers](https://wow-cms.com "BlizzCMS")
